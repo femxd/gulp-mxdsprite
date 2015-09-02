@@ -1,15 +1,15 @@
 {
-  "name": "gulp-tmtsprite",
-  "version": "0.0.13",
+  "name": "gulp-mxdsprite",
+  "version": "0.0.01",
   "description": "css sprite generator",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/willerce/gulp-tmtsprite.git"
+    "url": "https://github.com/femxd/gulp-mxdsprite.git"
   },
-  "homepage": "https://github.com/willerce/gulp-tmtsprite",
+  "homepage": "https://github.com/femxd/gulp-mxdsprite",
   "bugs": {
-    "url": "https://github.com/willerce/gulp-tmtsprite/issues"
+    "url": "https://github.com/femxd/gulp-mxdsprite/issues"
   },
   "author": {
     "name": "Willerce Zenn",
